@@ -13,3 +13,7 @@ ___
 pippim : used to derive the efficiency and central momentum correction
 ___
 Systematic.pl/NiceSytematic.pl/Plot.C/PlotNoSyst.C : perl scripts running the systematic combination and doing the final plotting
+
+___
+Extensive documentation on this analysis is found in:
+https://www.jlab.org/Hall-B/shifts/admin/paper_reviews/2021/AnalysisNoteV3_6-1461061-2021-04-09-v8.pdf
