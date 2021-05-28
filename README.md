@@ -1,6 +1,6 @@
-# TCS_analysis_CLAS12
+# TCS analysis with CLAS12
 
-This repository contains some of the scripts used for the TCS analysis. There are in there "raw" form, with dirty formatting.
+This repository contains some of the scripts used for the TCS analysis. There are in their "raw" form, with dirty formatting. 
 
 ___
 analysisTCSn1CheckSystematicsWithNewaccalgo1Dacc : main analysis code
